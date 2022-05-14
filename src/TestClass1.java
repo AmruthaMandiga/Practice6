@@ -20,6 +20,9 @@ public class TestClass1 {
 		// TODO Auto-generated method stub
 		TestClass1 t= new TestClass1();
 		t.array();
+		
+		   
+		
 
 	}
 
